@@ -1,0 +1,6 @@
+clone project 
+composer update 
+import entity_result.sql in mysql 
+run project:
+   http://localhost:8000/api (les url de resource)
+   http://localhost:8000/affichage (affichage de draws)
